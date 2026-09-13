@@ -1,0 +1,6 @@
+{
+  "name": "Tolo Broker Bot Companion",
+  "description": "Code generator, architecture guide, and live Telegram simulator for Tolo Broker phone classifieds bot with image upload and listing storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
